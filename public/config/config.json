@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe40ffC65376ab6d85DBFF330eA4052ab56D1F158",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xe40ffc65376ab6d85dbff330ea4052ab56d1f158",
+  "NETWORK": {
+    "NAME": "Polygon Mumbai",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Fat Frens1",
+  "SYMBOL": "FFRN1",
+  "MAX_SUPPLY": 125,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/fat-frens1",
+  "SHOW_BACKGROUND": true
+}
